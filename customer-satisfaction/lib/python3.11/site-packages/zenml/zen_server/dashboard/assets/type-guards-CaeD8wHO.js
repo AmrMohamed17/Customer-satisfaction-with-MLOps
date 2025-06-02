@@ -1,0 +1,1 @@
+function n(r){return typeof r=="string"}function t(r){return typeof r=="number"&&!isNaN(r)}function i(r){return Array.isArray(r)}function s(r){return r!==null&&typeof r=="object"&&!Array.isArray(r)}export{n as a,t as b,i as c,s as i};
